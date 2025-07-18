@@ -50,6 +50,19 @@ dispersion-modeling/
    /path/to/dispersion-modeling/AERMOD/src/aermod
    ```
 
+### Running Python Scripts
+We use uv for python package management. Install [here](https://docs.astral.sh/uv/getting-started/installation/)
+
+You can run python files by first running `uv sync` and then with
+```
+uv run file.py
+```
+OR
+```
+source .venv/bin/activate
+python file.py
+```
+
 ### Test Cases
 
 The installation includes numerous test cases in `AERMOD/test/inputs/`:
