@@ -5,9 +5,7 @@ import numpy as np
 import io
 from collections import defaultdict
 from typing import List, Tuple, Dict
-
-HALF_WIDTH = 1000.0
-CENTER_X, CENTER_Y = 0.0, 0.0
+import argparse
 
 
 def parse_to_df(filename: str) -> Dict[str, pd.DataFrame]:
@@ -38,9 +36,17 @@ def plot_timeseries(df: Dict[str, pd.DataFrame], output_gif: str = 'central_area
     frames = []
     for date, frame_data in df.items():
         fig, ax = plt.subplots(figsize=(8, 8))
-        x = np.arange(-8700, 8701, 200)
-        y = np.arange(-8700, 8701, 200)
-        scatter = ax.pcolormesh(x, y, frame_data["CONC"].values.reshape(88, 88), vmax=130, vmin=0, cmap='inferno', shading='auto')
+        x_vals = frame_data["X"].unique()
+        y_vals = frame_data["Y"].unique()
+        scatter = ax.pcolormesh(
+            x_vals, 
+            y_vals, 
+            frame_data["CONC"].values.reshape(x_vals.shape[0], y_vals.shape[0]), 
+            vmax=130, 
+            vmin=0, 
+            cmap='inferno', 
+            shading='auto'
+        )
         cbar = fig.colorbar(scatter, ax=ax, label='Concentration')
 
         ax.set_title(f'CaCO3 Dispersion - Time Step {date}')
@@ -65,5 +71,20 @@ def plot_timeseries(df: Dict[str, pd.DataFrame], output_gif: str = 'central_area
 
 
 if __name__ == "__main__":
-    frames_dfs = parse_to_df('../CACO3_100M_1HR.PST')
-    plot_timeseries(frames_dfs, output_gif='central_area_timeseries.gif')
+    parser = argparse.ArgumentParser(description="Generate CaCO3 dispersion timeseries GIF.")
+    parser.add_argument(
+        "--input", 
+        type=str, 
+        default="../runs/CACO3_100M_1HR.PST", 
+        help="Path to the PST file (default: ../runs/CACO3_100M_1HR.PST)"
+    )
+    parser.add_argument(
+        "--output_gif",
+        type=str,
+        default="central_area_timeseries.gif",
+        help="Output GIF filename (default: central_area_timeseries.gif)"
+    )
+    args = parser.parse_args()
+
+    frames_dfs = parse_to_df(args.input)
+    plot_timeseries(frames_dfs, output_gif=args.output_gif)
