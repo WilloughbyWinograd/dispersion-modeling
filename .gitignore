@@ -1,0 +1,6 @@
+runs/*
+**/*.gif
+**/*.png
+# Find this in google drive
+AERMOD/modesto-city-23258
+.DS_Store
