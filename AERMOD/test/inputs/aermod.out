@@ -99,7 +99,7 @@ OU FINISHED
  ***********************************
 
  *** AERMOD - VERSION  15181 ***   *** A Simple Example Problem for the AERMOD Model with PRIME             ***        07/15/25
- *** AERMET - VERSION  14134 ***   ***                                                                      ***        20:58:24
+ *** AERMET - VERSION  14134 ***   ***                                                                      ***        21:00:08
                                                                                                                        PAGE   1
  **MODELOPTs:   NonDFAULT CONC      FLAT      RURAL
 
@@ -172,7 +172,7 @@ OU FINISHED
  **File Created for Event Model:  aertest_evt.inp                                                                                 
  **File for Summary of Results:   AERTEST.SUM                                                                                     
  *** AERMOD - VERSION  15181 ***   *** A Simple Example Problem for the AERMOD Model with PRIME             ***        07/15/25
- *** AERMET - VERSION  14134 ***   ***                                                                      ***        20:58:24
+ *** AERMET - VERSION  14134 ***   ***                                                                      ***        21:00:08
                                                                                                                        PAGE   2
  **MODELOPTs:   NonDFAULT CONC      FLAT      RURAL
 
@@ -186,7 +186,7 @@ OU FINISHED
 
  STACK1           0   0.50000E+03       0.0       0.0     0.0    65.00   425.00    15.00     5.00    YES     NO    NO         
  *** AERMOD - VERSION  15181 ***   *** A Simple Example Problem for the AERMOD Model with PRIME             ***        07/15/25
- *** AERMET - VERSION  14134 ***   ***                                                                      ***        20:58:24
+ *** AERMET - VERSION  14134 ***   ***                                                                      ***        21:00:08
                                                                                                                        PAGE   3
  **MODELOPTs:   NonDFAULT CONC      FLAT      RURAL
 
@@ -199,7 +199,7 @@ OU FINISHED
 
   ALL        STACK1      ,
  *** AERMOD - VERSION  15181 ***   *** A Simple Example Problem for the AERMOD Model with PRIME             ***        07/15/25
- *** AERMET - VERSION  14134 ***   ***                                                                      ***        20:58:24
+ *** AERMET - VERSION  14134 ***   ***                                                                      ***        21:00:08
                                                                                                                        PAGE   4
  **MODELOPTs:   NonDFAULT CONC      FLAT      RURAL
 
@@ -228,7 +228,7 @@ OU FINISHED
    35   50.0,   62.3,   82.5,  -35.2,   34.5,     36   50.0,   50.0,   75.0,  -37.5,   35.0,
 
  *** AERMOD - VERSION  15181 ***   *** A Simple Example Problem for the AERMOD Model with PRIME             ***        07/15/25
- *** AERMET - VERSION  14134 ***   ***                                                                      ***        20:58:24
+ *** AERMET - VERSION  14134 ***   ***                                                                      ***        21:00:08
                                                                                                                        PAGE   5
  **MODELOPTs:   NonDFAULT CONC      FLAT      RURAL
 
@@ -252,7 +252,7 @@ OU FINISHED
           210.0,     220.0,     230.0,     240.0,     250.0,     260.0,     270.0,     280.0,     290.0,     300.0,
           310.0,     320.0,     330.0,     340.0,     350.0,     360.0,
  *** AERMOD - VERSION  15181 ***   *** A Simple Example Problem for the AERMOD Model with PRIME             ***        07/15/25
- *** AERMET - VERSION  14134 ***   ***                                                                      ***        20:58:24
+ *** AERMET - VERSION  14134 ***   ***                                                                      ***        21:00:08
                                                                                                                        PAGE   6
  **MODELOPTs:   NonDFAULT CONC      FLAT      RURAL
 
@@ -277,7 +277,7 @@ OU FINISHED
 
                                                  1.54,   3.09,   5.14,   8.23,  10.80,
  *** AERMOD - VERSION  15181 ***   *** A Simple Example Problem for the AERMOD Model with PRIME             ***        07/15/25
- *** AERMET - VERSION  14134 ***   ***                                                                      ***        20:58:24
+ *** AERMET - VERSION  14134 ***   ***                                                                      ***        21:00:08
                                                                                                                        PAGE   7
  **MODELOPTs:   NonDFAULT CONC      FLAT      RURAL
 
@@ -328,7 +328,7 @@ OU FINISHED
 
  F indicates top of profile (=1) or below (=0)
  *** AERMOD - VERSION  15181 ***   *** A Simple Example Problem for the AERMOD Model with PRIME             ***        07/15/25
- *** AERMET - VERSION  14134 ***   ***                                                                      ***        20:58:24
+ *** AERMET - VERSION  14134 ***   ***                                                                      ***        21:00:08
                                                                                                                        PAGE   8
  **MODELOPTs:   NonDFAULT CONC      FLAT      RURAL
 
@@ -380,7 +380,7 @@ OU FINISHED
       350.00 |       0.28008      0.46156      0.59121      0.75035
       360.00 |       0.23827      0.44494      0.60258      0.80270
  *** AERMOD - VERSION  15181 ***   *** A Simple Example Problem for the AERMOD Model with PRIME             ***        07/15/25
- *** AERMET - VERSION  14134 ***   ***                                                                      ***        20:58:24
+ *** AERMET - VERSION  14134 ***   ***                                                                      ***        21:00:08
                                                                                                                        PAGE   9
  **MODELOPTs:   NonDFAULT CONC      FLAT      RURAL
 
@@ -432,7 +432,7 @@ OU FINISHED
      350.0 |      6.94682 (88030212)      5.20909 (88030212)      4.81901 (88030113)      8.62792 (88030210)
      360.0 |      4.09901 (88030212)      3.42532 (88030110)      4.81901 (88030113)      8.41377 (88030210)
  *** AERMOD - VERSION  15181 ***   *** A Simple Example Problem for the AERMOD Model with PRIME             ***        07/15/25
- *** AERMET - VERSION  14134 ***   ***                                                                      ***        20:58:24
+ *** AERMET - VERSION  14134 ***   ***                                                                      ***        21:00:08
                                                                                                                        PAGE  10
  **MODELOPTs:   NonDFAULT CONC      FLAT      RURAL
 
@@ -484,7 +484,7 @@ OU FINISHED
      350.0 |      3.47936 (88030211)      3.46909 (88030213)      4.59551 (88030212)      6.31624 (88030213)
      360.0 |      2.75649 (88030319)      3.36687 (88030213)      4.41943 (88030110)      6.09226 (88030213)
  *** AERMOD - VERSION  15181 ***   *** A Simple Example Problem for the AERMOD Model with PRIME             ***        07/15/25
- *** AERMET - VERSION  14134 ***   ***                                                                      ***        20:58:24
+ *** AERMET - VERSION  14134 ***   ***                                                                      ***        21:00:08
                                                                                                                        PAGE  11
  **MODELOPTs:   NonDFAULT CONC      FLAT      RURAL
 
@@ -536,7 +536,7 @@ OU FINISHED
      350.0 |      2.30021 (88030319)      3.42532 (88030110)      4.44315 (88030213)      5.76689 (88030211)
      360.0 |      2.03189 (88030211)      3.24500 (88030113)      4.31724 (88030213)      5.27105 (88030211)
  *** AERMOD - VERSION  15181 ***   *** A Simple Example Problem for the AERMOD Model with PRIME             ***        07/15/25
- *** AERMET - VERSION  14134 ***   ***                                                                      ***        20:58:24
+ *** AERMET - VERSION  14134 ***   ***                                                                      ***        21:00:08
                                                                                                                        PAGE  12
  **MODELOPTs:   NonDFAULT CONC      FLAT      RURAL
 
@@ -588,7 +588,7 @@ OU FINISHED
      350.0 |      4.10326 (88030212)      3.16494 (88030212)      4.10609 (88030115)      5.75319 (88030212)
      360.0 |      2.52862 (88030212)      2.63762 (88030115)      4.10609 (88030115)      4.96113 (88030212)
  *** AERMOD - VERSION  15181 ***   *** A Simple Example Problem for the AERMOD Model with PRIME             ***        07/15/25
- *** AERMET - VERSION  14134 ***   ***                                                                      ***        20:58:24
+ *** AERMET - VERSION  14134 ***   ***                                                                      ***        21:00:08
                                                                                                                        PAGE  13
  **MODELOPTs:   NonDFAULT CONC      FLAT      RURAL
 
@@ -640,7 +640,7 @@ OU FINISHED
      350.0 |      0.91146 (88030321)      2.63762 (88030115)      3.21295 (88030112)      3.68267 (88030115)
      360.0 |      1.06355 (88030321)      1.95972 (88030112)      3.21295 (88030112)      4.76718 (88030215)
  *** AERMOD - VERSION  15181 ***   *** A Simple Example Problem for the AERMOD Model with PRIME             ***        07/15/25
- *** AERMET - VERSION  14134 ***   ***                                                                      ***        20:58:24
+ *** AERMET - VERSION  14134 ***   ***                                                                      ***        21:00:08
                                                                                                                        PAGE  14
  **MODELOPTs:   NonDFAULT CONC      FLAT      RURAL
 
@@ -692,7 +692,7 @@ OU FINISHED
      350.0 |      0.69412 (88030209)      1.95972 (88030112)      2.87737 (88030212)      2.84738 (88030112)
      360.0 |      0.69412 (88030209)      1.85350 (88030212)      2.91224 (88030215)      3.68267 (88030115)
  *** AERMOD - VERSION  15181 ***   *** A Simple Example Problem for the AERMOD Model with PRIME             ***        07/15/25
- *** AERMET - VERSION  14134 ***   ***                                                                      ***        20:58:24
+ *** AERMET - VERSION  14134 ***   ***                                                                      ***        21:00:08
                                                                                                                        PAGE  15
  **MODELOPTs:   NonDFAULT CONC      FLAT      RURAL
 
@@ -744,7 +744,7 @@ OU FINISHED
      350.0 |      1.68064 (88030216)      2.00860 (88030116)      3.19646 (88030116)      3.09257 (88030216)
      360.0 |      1.09090 (88030216)      2.00860 (88030116)      3.19646 (88030116)      3.78275 (88030216)
  *** AERMOD - VERSION  15181 ***   *** A Simple Example Problem for the AERMOD Model with PRIME             ***        07/15/25
- *** AERMET - VERSION  14134 ***   ***                                                                      ***        20:58:24
+ *** AERMET - VERSION  14134 ***   ***                                                                      ***        21:00:08
                                                                                                                        PAGE  16
  **MODELOPTs:   NonDFAULT CONC      FLAT      RURAL
 
@@ -796,7 +796,7 @@ OU FINISHED
      350.0 |      0.46567 (88030324)      1.65945 (88030216)      1.71151 (88030216)      2.89764 (88030116)
      360.0 |      0.52271 (88030324)      1.37532 (88030216)      1.80083 (88030216)      2.89764 (88030116)
  *** AERMOD - VERSION  15181 ***   *** A Simple Example Problem for the AERMOD Model with PRIME             ***        07/15/25
- *** AERMET - VERSION  14134 ***   ***                                                                      ***        20:58:24
+ *** AERMET - VERSION  14134 ***   ***                                                                      ***        21:00:08
                                                                                                                        PAGE  17
  **MODELOPTs:   NonDFAULT CONC      FLAT      RURAL
 
@@ -848,7 +848,7 @@ OU FINISHED
      350.0 |      0.31635 (88030208)      0.63040 (88030316)      0.80077 (88030316)      0.75658 (88030316)
      360.0 |      0.31635 (88030208)      0.63040 (88030316)      0.80077 (88030316)      0.75658 (88030316)
  *** AERMOD - VERSION  15181 ***   *** A Simple Example Problem for the AERMOD Model with PRIME             ***        07/15/25
- *** AERMET - VERSION  14134 ***   ***                                                                      ***        20:58:24
+ *** AERMET - VERSION  14134 ***   ***                                                                      ***        21:00:08
                                                                                                                        PAGE  18
  **MODELOPTs:   NonDFAULT CONC      FLAT      RURAL
 
@@ -900,7 +900,7 @@ OU FINISHED
      350.0 |      0.72311 (88030224)      0.75187 (88030124)      1.18649 (88030124)      1.30000 (88030224)
      360.0 |      0.52621 (88030224)      0.75187 (88030124)      1.18649 (88030124)      1.47855 (88030224)
  *** AERMOD - VERSION  15181 ***   *** A Simple Example Problem for the AERMOD Model with PRIME             ***        07/15/25
- *** AERMET - VERSION  14134 ***   ***                                                                      ***        20:58:24
+ *** AERMET - VERSION  14134 ***   ***                                                                      ***        21:00:08
                                                                                                                        PAGE  19
  **MODELOPTs:   NonDFAULT CONC      FLAT      RURAL
 
@@ -952,7 +952,7 @@ OU FINISHED
      350.0 |      0.30057 (88030324)      0.68697 (88030224)      0.72141 (88030224)      1.19837 (88030124)
      360.0 |      0.33021 (88030324)      0.59044 (88030224)      0.73784 (88030224)      1.19837 (88030124)
  *** AERMOD - VERSION  15181 ***   *** A Simple Example Problem for the AERMOD Model with PRIME             ***        07/15/25
- *** AERMET - VERSION  14134 ***   ***                                                                      ***        20:58:24
+ *** AERMET - VERSION  14134 ***   ***                                                                      ***        21:00:08
                                                                                                                        PAGE  20
  **MODELOPTs:   NonDFAULT CONC      FLAT      RURAL
 
@@ -1004,7 +1004,7 @@ OU FINISHED
      350.0 |      0.09520 (88030124)      0.40113 (88030324)      0.44663 (88030324)      0.47814 (88030324)
      360.0 |      0.09520 (88030124)      0.43118 (88030324)      0.47568 (88030324)      0.50901 (88030324)
  *** AERMOD - VERSION  15181 ***   *** A Simple Example Problem for the AERMOD Model with PRIME             ***        07/15/25
- *** AERMET - VERSION  14134 ***   ***                                                                      ***        20:58:24
+ *** AERMET - VERSION  14134 ***   ***                                                                      ***        21:00:08
                                                                                                                        PAGE  21
  **MODELOPTs:   NonDFAULT CONC      FLAT      RURAL
 
@@ -1046,7 +1046,7 @@ OU FINISHED
                        DC = DISCCART
                        DP = DISCPOLR
  *** AERMOD - VERSION  15181 ***   *** A Simple Example Problem for the AERMOD Model with PRIME             ***        07/15/25
- *** AERMET - VERSION  14134 ***   ***                                                                      ***        20:58:24
+ *** AERMET - VERSION  14134 ***   ***                                                                      ***        21:00:08
                                                                                                                        PAGE  22
  **MODELOPTs:   NonDFAULT CONC      FLAT      RURAL
 
@@ -1088,7 +1088,7 @@ OU FINISHED
                        DC = DISCCART
                        DP = DISCPOLR
  *** AERMOD - VERSION  15181 ***   *** A Simple Example Problem for the AERMOD Model with PRIME             ***        07/15/25
- *** AERMET - VERSION  14134 ***   ***                                                                      ***        20:58:24
+ *** AERMET - VERSION  14134 ***   ***                                                                      ***        21:00:08
                                                                                                                        PAGE  23
  **MODELOPTs:   NonDFAULT CONC      FLAT      RURAL
 
@@ -1130,7 +1130,7 @@ OU FINISHED
                        DC = DISCCART
                        DP = DISCPOLR
  *** AERMOD - VERSION  15181 ***   *** A Simple Example Problem for the AERMOD Model with PRIME             ***        07/15/25
- *** AERMET - VERSION  14134 ***   ***                                                                      ***        20:58:24
+ *** AERMET - VERSION  14134 ***   ***                                                                      ***        21:00:08
                                                                                                                        PAGE  24
  **MODELOPTs:   NonDFAULT CONC      FLAT      RURAL
 
@@ -1172,7 +1172,7 @@ OU FINISHED
                        DC = DISCCART
                        DP = DISCPOLR
  *** AERMOD - VERSION  15181 ***   *** A Simple Example Problem for the AERMOD Model with PRIME             ***        07/15/25
- *** AERMET - VERSION  14134 ***   ***                                                                      ***        20:58:24
+ *** AERMET - VERSION  14134 ***   ***                                                                      ***        21:00:08
                                                                                                                        PAGE  25
  **MODELOPTs:   NonDFAULT CONC      FLAT      RURAL
 
@@ -1202,7 +1202,7 @@ ALL       1ST HIGHEST VALUE IS      24.85172 AT (     433.01,     -250.00,     0
                       DC = DISCCART
                       DP = DISCPOLR
  *** AERMOD - VERSION  15181 ***   *** A Simple Example Problem for the AERMOD Model with PRIME             ***        07/15/25
- *** AERMET - VERSION  14134 ***   ***                                                                      ***        20:58:24
+ *** AERMET - VERSION  14134 ***   ***                                                                      ***        21:00:08
                                                                                                                        PAGE  26
  **MODELOPTs:   NonDFAULT CONC      FLAT      RURAL
 
@@ -1225,7 +1225,7 @@ ALL      HIGH   1ST HIGH VALUE IS     753.65578  ON 88030111: AT (     303.11,  
                       DC = DISCCART
                       DP = DISCPOLR
  *** AERMOD - VERSION  15181 ***   *** A Simple Example Problem for the AERMOD Model with PRIME             ***        07/15/25
- *** AERMET - VERSION  14134 ***   ***                                                                      ***        20:58:24
+ *** AERMET - VERSION  14134 ***   ***                                                                      ***        21:00:08
                                                                                                                        PAGE  27
  **MODELOPTs:   NonDFAULT CONC      FLAT      RURAL
 
@@ -1248,7 +1248,7 @@ ALL      HIGH   1ST HIGH VALUE IS     329.96009  ON 88030112: AT (     433.01,  
                       DC = DISCCART
                       DP = DISCPOLR
  *** AERMOD - VERSION  15181 ***   *** A Simple Example Problem for the AERMOD Model with PRIME             ***        07/15/25
- *** AERMET - VERSION  14134 ***   ***                                                                      ***        20:58:24
+ *** AERMET - VERSION  14134 ***   ***                                                                      ***        21:00:08
                                                                                                                        PAGE  28
  **MODELOPTs:   NonDFAULT CONC      FLAT      RURAL
 
@@ -1271,7 +1271,7 @@ ALL      HIGH   1ST HIGH VALUE IS     264.11465  ON 88030116: AT (     433.01,  
                       DC = DISCCART
                       DP = DISCPOLR
  *** AERMOD - VERSION  15181 ***   *** A Simple Example Problem for the AERMOD Model with PRIME             ***        07/15/25
- *** AERMET - VERSION  14134 ***   ***                                                                      ***        20:58:24
+ *** AERMET - VERSION  14134 ***   ***                                                                      ***        21:00:08
                                                                                                                        PAGE  29
  **MODELOPTs:   NonDFAULT CONC      FLAT      RURAL
 
@@ -1294,7 +1294,7 @@ ALL      HIGH   1ST HIGH VALUE IS      88.89511  ON 88030124: AT (     433.01,  
                       DC = DISCCART
                       DP = DISCPOLR
  *** AERMOD - VERSION  15181 ***   *** A Simple Example Problem for the AERMOD Model with PRIME             ***        07/15/25
- *** AERMET - VERSION  14134 ***   ***                                                                      ***        20:58:24
+ *** AERMET - VERSION  14134 ***   ***                                                                      ***        21:00:08
                                                                                                                        PAGE  30
  **MODELOPTs:   NonDFAULT CONC      FLAT      RURAL
 

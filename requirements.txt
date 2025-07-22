@@ -1,0 +1,10 @@
+# requirements.txt
+# Python requirements for utility scripts in this repository
+# Currently, only the Python standard library is used.
+# If you add scripts that use numpy, pandas, or matplotlib, add them here.
+
+matplotlib
+pandas
+imageio
+contextily
+pyproj 
