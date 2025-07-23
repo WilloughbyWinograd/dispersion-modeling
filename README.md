@@ -145,3 +145,21 @@ These resources provide official documentation, regulatory guidance, and technic
 - Original installation guide: Based on M. Fung's "AERMOD Installation for Mac & Linux - Quick Guide v1.2"
 - AERMOD documentation: https://www.epa.gov/scram/air-quality-dispersion-modeling-preferred-and-recommended-models#aermod
 - Source repository: https://github.com/mattfung/AERMOD.git 
+
+## Monitoring AERMOD Progress
+
+To check if AERMOD is running:
+
+- Use the following command to see if the AERMOD process is active:
+  ```bash
+  ps aux | grep aermod | grep -v grep
+  ```
+  If you see a line with `aermod` (other than the grep command), it is running.
+
+- To monitor live output as AERMOD runs, use:
+  ```bash
+  tail -f aermod.out
+  ```
+  This will show new lines as they are written to the output file.
+
+These tools are helpful for tracking progress, especially for large or long-running simulations. 
